@@ -18,9 +18,9 @@
 
 - 🔭 I’m currently working on **Spring Boot/Backend heavy application**
 
-- 🌱 I’m currently learning **Design Principles to get more handy on solving development problems and write clean code**
+- 🌱 I’m currently learning **Design Principles to get more handy on solving development problems and writing clean code**
 
-- 💬 Ask me about **Data structures**
+- 💬 Ask me about **Data structures, Algorithms, Interview Preparation and Spring Boot**
 
 - 📫 How to reach me **viveksundli@gmail.com**
 
